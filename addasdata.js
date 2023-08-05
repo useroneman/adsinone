@@ -32,7 +32,7 @@ async function fetchAndDisplayAds_() {
   try {
     var vXads = `?${Date.now()}`;
     const response = await fetch(
-      `https://json.extendsclass.com/bin/a9d2a68386cf${vXads}`
+      `https://useroneman.github.io/adsinone/${vXads}`
     );
     const data = await response.json();
     //   data["ads"] = data;
