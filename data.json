@@ -3,7 +3,7 @@
   "ads": [
     {
       "id": 1,
-      "cid": 12312312,
+      "cid": "ad1",
       "image_url": "https://avatars.githubusercontent.com/u/49580304?v=4",
       "width": "250",
       "height": "250",
