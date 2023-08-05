@@ -4,9 +4,9 @@
     {
       "id": 1,
       "cid": "gif-txt-azd",
-      "image_url": "https://corsproxy.io/?https%3A%2F%2Fraw.githubusercontent.com%2Fuseroneman%2Fadimag%2Fmain%2Fbnr-ad2.jpg",
-      "width": "250",
-      "height": "250",
+      "image_url": "https://corsproxy.io/?https%3A%2F%2Fraw.githubusercontent.com%2Fuseroneman%2Fadimag%2Fmain%2Fgiftxt-ad.gif",
+      "height": "150,
+      "width": "450",
       "target_url": "https://useroneman.github.io/adredirlks/bnr-ad1.html?1=as&3=sd",
       "sendMe": {
         "utm_source": "NHwebsite",
@@ -21,8 +21,8 @@
       "id": 2,
       "cid": "ad2",
       "image_url": "https://avatars.githubusercontent.com/u/49580304?v=4",
-      "width": "250",
-      "height": "250",
+      "height": "150,
+      "width": "450",
       "target_url": "https://useroneman.github.io/adredirlks/bnr-ad1.html?1=as&3=sd",
       "sendMe": {
         "utm_source": "NPortal",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": 1,
+      "id": 3,
       "cid": "ad2",
       "image_url": "https://avatars.githubusercontent.com/u/49580304?v=4",
       "width": "250",
@@ -50,7 +50,7 @@
       }
     },
     {
-      "id": 1,
+      "id": 4,
       "cid": "ad2",
       "image_url": "https://avatars.githubusercontent.com/u/49580304?v=4",
       "width": "250",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "id": 1,
+      "id": 5,
       "cid": "ad2",
       "image_url": "https://avatars.githubusercontent.com/u/49580304?v=4",
       "width": "250",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "id": 34,
+      "id": 6,
       "cid": "ad2",
       "image_url": "https://avatars.githubusercontent.com/u/49580304?v=4",
       "width": "250",
