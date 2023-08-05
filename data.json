@@ -4,7 +4,7 @@
     {  
       "More Info": "This Is For NitrosPortal Website And All Type Of Ads used here",
       "id": 1,
-      "cid": "gif-txt-azd",
+      "cid": "gif-txt-azd-Nitrosportal",
       "image_url": "https://corsproxy.io/?https%3A%2F%2Fraw.githubusercontent.com%2Fuseroneman%2Fadimag%2Fmain%2Fgiftxt-ad.gif",
       "width": "450",
       "height": "150",
@@ -21,7 +21,7 @@
     {
       "More Info": "This Is For NitrosPortal Website And All Type Of Ads used here",
       "id": 2,
-      "cid": "bnr-azd1",
+      "cid": "bnr-azd1-Nitrosportal",
       "image_url": "https://corsproxy.io/?https%3A%2F%2Fraw.githubusercontent.com%2Fuseroneman%2Fadimag%2Fmain%2Fbnr-ad1.jpg",
       "height": "100",
       "width": "390",
@@ -38,7 +38,7 @@
     {
       "More Info": "This Is For NitrosPortal Website And All Type Of Ads used here",
       "id": 3,
-      "cid": "bnr-azd2",
+      "cid": "bnr-azd2-Nitrosportal",
       "image_url": "https://corsproxy.io/?https%3A%2F%2Fraw.githubusercontent.com%2Fuseroneman%2Fadimag%2Fmain%2Fbnr-ad2.jpg",
       "width": "100",
       "height": "390",
@@ -55,7 +55,7 @@
     {
       "More Info": "This Is For NitrosPortal Website And All Type Of Ads used here",
       "id": 4,
-      "cid": "intr-azd1",
+      "cid": "intr-azd1-Nitrosportal",
       "image_url": "https://corsproxy.io/?https%3A%2F%2Fraw.githubusercontent.com%2Fuseroneman%2Fadimag%2Fmain%2Fintrstil-ad1.jpg",
       "width": "250",
       "height": "250",
@@ -71,7 +71,7 @@
     },
     {
       "id": 5,
-      "cid": "intr-azd2",
+      "cid": "intr-azd2-Nitrosportal",
       "image_url": "https://corsproxy.io/?https%3A%2F%2Fraw.githubusercontent.com%2Fuseroneman%2Fadimag%2Fmain%2Fintrstil-ad2.jpg",
       "width": "250",
       "height": "250",
