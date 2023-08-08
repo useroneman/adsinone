@@ -102,6 +102,23 @@
         "utm_term": "INT1BIOnh",
         "utm_content": "INT1BIOnh"
       }
+    },
+    {
+      "More Info": "This Is For bio.noobhacktube.com Website And Only Interstial2 Ad Is Used Here",
+      "id": 7,
+      "cid": "intr-azd2-BioNHtube",
+      "image_url": "https://corsproxy.io/?https%3A%2F%2Fraw.githubusercontent.com%2Fuseroneman%2Fadimag%2Fmain%2Fintrstil-ad2.jpg",
+      "width": "250",
+      "height": "250",
+      "target_url": "https://useroneman.github.io/adredirlks/bnr-ad2.html?1=as&3=sd",
+      "sendMe": {
+        "utm_source": "BIOnhtube",
+        "utm_medium": "INT2AD",
+        "utm_campaign": "INT2BIOnh",
+        "utm_id": "INT2BIOnh",
+        "utm_term": "INT2BIOnh",
+        "utm_content": "INT2BIOnh"
+      }
     }
   ]
 }
