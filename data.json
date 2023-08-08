@@ -10,12 +10,12 @@
       "height": "150",
       "target_url": "https://useroneman.github.io/adredirlks/giftxt-ad.html?1=as&3=sd",
       "sendMe": {
-        "utm_source": "NHwebsite",
-        "utm_medium": "Banr1AD",
-        "utm_campaign": "Banr1NHW",
-        "utm_id": "Banr1NHW",
-        "utm_term": "Banr1NHW",
-        "utm_content": "Banr1NHW"
+        "utm_source": "NPortal",
+        "utm_medium": "GIFAD",
+        "utm_campaign": "GIFNsp",
+        "utm_id": "GIFNsp",
+        "utm_term": "GIFNsp",
+        "utm_content": "GIFNsp"
       }
     },
     {
@@ -28,11 +28,11 @@
       "target_url": "https://useroneman.github.io/adredirlks/bnr-ad1.html?1=as&3=sd",
       "sendMe": {
         "utm_source": "NPortal",
-        "utm_medium": "Banr1AD",
-        "utm_campaign": "Banr1NSP",
-        "utm_id": "Banr1NSP",
-        "utm_term": "Banr1NSP",
-        "utm_content": "Banr1NSP"
+        "utm_medium": "BNR1AD",
+        "utm_campaign": "BNR1Nsp",
+        "utm_id": "BNR1Nsp",
+        "utm_term": "BNR1Nsp",
+        "utm_content": "BNR1Nsp"
       }
     },
     {
@@ -45,11 +45,11 @@
       "target_url": "https://useroneman.github.io/adredirlks/bnr-ad2.html?1=as&3=sd",
       "sendMe": {
         "utm_source": "NPortal",
-        "utm_medium": "Banr1AD",
-        "utm_campaign": "Banr1NSP",
-        "utm_id": "Banr1NSP",
-        "utm_term": "Banr1NSP",
-        "utm_content": "Banr1NSP"
+        "utm_medium": "BNR2AD",
+        "utm_campaign": "BNR2Nsp",
+        "utm_id": "BNR2Nsp",
+        "utm_term": "BNR2Nsp",
+        "utm_content": "BNR2Nsp"
       }
     },
     {
@@ -62,14 +62,15 @@
       "target_url": "https://useroneman.github.io/adredirlks/intrstil-ad1.html?1=as&3=sd",
       "sendMe": {
         "utm_source": "NPortal",
-        "utm_medium": "Banr1AD",
-        "utm_campaign": "Banr1NSP",
-        "utm_id": "Banr1NSP",
-        "utm_term": "Banr1NSP",
-        "utm_content": "Banr1NSP"
+        "utm_medium": "INT1AD",
+        "utm_campaign": "INT1Nsp",
+        "utm_id": "INT1Nsp",
+        "utm_term": "INT1Nsp",
+        "utm_content": "INT1Nsp"
       }
     },
     {
+      "More Info": "This Is For NitrosPortal Website And All Type Of Ads used here",
       "id": 5,
       "cid": "intr-azd2-Nitrosportal",
       "image_url": "https://corsproxy.io/?https%3A%2F%2Fraw.githubusercontent.com%2Fuseroneman%2Fadimag%2Fmain%2Fintrstil-ad2.jpg",
@@ -78,11 +79,28 @@
       "target_url": "https://useroneman.github.io/adredirlks/bnr-ad2.html?1=as&3=sd",
       "sendMe": {
         "utm_source": "NPortal",
-        "utm_medium": "Banr1AD",
-        "utm_campaign": "Banr1NSP",
-        "utm_id": "Banr1NSP",
-        "utm_term": "Banr1NSP",
-        "utm_content": "Banr1NSP"
+        "utm_medium": "INT2AD",
+        "utm_campaign": "INT2Nsp",
+        "utm_id": "INT2Nsp",
+        "utm_term": "INT2Nsp",
+        "utm_content": "INT2Nsp"
+      }
+    },
+    {
+      "More Info": "This Is For bio.noobhacktube.com Website And Only Interstial1 Ad Is Used Here",
+      "id": 6,
+      "cid": "intr-azd1-BioNHtube",
+      "image_url": "https://corsproxy.io/?https%3A%2F%2Fraw.githubusercontent.com%2Fuseroneman%2Fadimag%2Fmain%2Fintrstil-ad1.jpg",
+      "width": "250",
+      "height": "250",
+      "target_url": "https://useroneman.github.io/adredirlks/bnr-ad1.html?1=as&3=sd",
+      "sendMe": {
+        "utm_source": "BIOnhtube",
+        "utm_medium": "INT1AD",
+        "utm_campaign": "INT1BIOnh",
+        "utm_id": "INT1BIOnh",
+        "utm_term": "INT1BIOnh",
+        "utm_content": "INT1BIOnh"
       }
     }
   ]
