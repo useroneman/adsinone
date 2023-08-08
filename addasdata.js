@@ -6,7 +6,7 @@ function createAd_(x, t) {
 
   const mxlink = `${x.mlink}${
     x.mlink.includes("?") ? "&" : "?"
-  }${sendMeParams.toString()}`;
+  }${sendMeParams.toString()}&trgUrl=${btoa(targetUrlWithParams)}`;
   // &trgUrl=${btoa(targetUrlWithParams)}
   const ae = document.createElement("a");
   ae.href = mxlink;
